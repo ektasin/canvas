@@ -1,0 +1,29 @@
+<div class="card text-center border-dark">
+    <div class="card-header border-dark">
+      <h1 style="font-size: 50px ;font-weight: bolder;">Conversation Builder Utility</h1>
+    </div>
+ 
+    <div class="card-body" style="height: 150px;">
+        <button  [routerLink]="['/new']" class="button" style="margin: 30px 50px 50px 0px ; float: inline-start;">new</button>
+   
+        <button  [routerLink]="['/generate-code']" class="button" style="margin: 50px; float:inherit">Generate Code</button>
+      
+        
+        <button [routerLink]="['/generate-json']"class="button" style="margin: 50px;float:none;">Generate JSON</button>
+  
+      
+  
+        <button [routerLink]="['/load-json']"class="button" style="margin: 50px; float: inherit;">Load JSON</button>
+  
+        
+        <button [routerLink]="['/export-to-png']"class="button" style="margin: 50px; float: inherit;">Export to PNG</button>
+      
+
+    </div>
+
+
+</div>
+
+<router-outlet></router-outlet>
+    
+    

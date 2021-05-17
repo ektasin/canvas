@@ -1,0 +1,26 @@
+{
+  "name": "category",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./Category.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apiai": "^4.0.3",
+    "async": "^2.6.1",
+    "dialogflow": "^0.8.2",
+    "poca-common": "file:poca-common",
+    "poca-test": "file:poca-test",
+    "poca-category-lib-v2": "file:poca-category-lib-v2",
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-string": "^1.5.0",
+    "mocha": "^5.2.0"
+  }
+}

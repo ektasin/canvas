@@ -1,0 +1,18 @@
+#h1{
+  background:#eee;
+
+}
+.button {
+  
+  padding: 10px 20px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgb(14, 11, 11);
+  background-color:rgb(253, 253, 253);
+  border: 5px solid black;
+  border-radius: 15px;
+
+}
+.button:hover {background-color: rgb(230, 227, 227)}

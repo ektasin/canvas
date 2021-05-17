@@ -1,0 +1,92 @@
+ 
+
+   {
+    "Canvas": {
+         "maxRepeatCount": 3,
+         "WelcomeMessage": "Welcome ",
+         "Title": "Tree",
+         "Description": "",
+         "AgentName": "",
+         "Icon URL": "https://poca-store-blob.intelliassist.com:8080/common/pa/subcategory/RegisterCompliant.png",
+         "version": "1.0.0",
+         "Root":"Root Node ID" 
+   }
+    ,
+ 
+
+   "HierachialTree":{
+       "N1":{
+           "properties":{
+       "maxRepeatCount":"3",
+       "transferL1Agent":"true",
+   
+     "dependentNode":[],
+       "dependentOnAllNode":"false",
+       "fieldName":"",
+       "changeable":"true"
+           },
+             "children":[
+                 {
+                 "connect":"true",
+                 "node":"B1"
+               },
+               {
+                   "connect":"false",
+                   "node":"B2"
+               }
+           ]
+           }
+      },
+      
+     "B1":{
+         "properties":{
+             "maxRepeatCount":"3",
+             "transferL1Agent":"true",
+         
+           "dependentNode":[
+               "N1"
+           ],
+             "dependentOnAllNode":"false",
+             "fieldName":"",
+             "changeable":"true"
+                 },
+                   "children":[
+                       {
+                       "connect":"true",
+                       "node":"C1"
+                     },
+                     {
+                         "connect":"false",
+                         "node":"c2"
+                     }
+                 ]
+     },
+     "B2":{
+         "properties":{
+             "maxRepeatCount":"3",
+             "transferL1Agent":"true",
+         
+           "dependentNode":[
+               "N1"
+           ],
+             "dependentOnAllNode":"false",
+             "fieldName":"",
+             "changeable":"true"
+                 },
+                   "children":[
+                       {
+                       "connect":"true",
+                       "node":"C3"
+                     },
+                     {
+                         "connect":"false",
+                         "node":"C4"
+                     }
+                 ]
+     }
+      
+      
+      }
+
+
+ 

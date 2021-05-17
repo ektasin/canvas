@@ -1,0 +1,62 @@
+{
+	"agents": {
+		"ConversationAgent": {
+			"project_id": "DemoAgent",
+			"private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDqw3xGZEjJDkAr\niedmJE3p/kF98tzsY6FamhbW7qjQ1CH5WMzQyqus3iqdSh/KwQOARv86wb0OGPE0\nLj6vakjNorCjtSqKtrHLLb2RghpRBmnrHwefe+RPP7D/9nnhgzmDVpaoQR6SbZ2I\nA6wIEBZ0t2+MlAjkyakdcYbtWMGjN6b+GyeCGmRBGTr1ViZYWNTmEZ4+iafiF+63\nSA3XBGdh2wpouoll9OQY/+swnKEq2OCRB88r0VPc8hIQF2DfDxm7lZ80FbHHb7av\neC5Mu71LftkBabJSFtwPZ1d7i5ewgAeAKe106BU9CG9pDJackbolNw3nkbJ+lkg1\nrd+aAPDxAgMBAAECggEAAa9tkPUGuVmIiBZAHSeYo+WvqqvLVyDtgSMm9jSksjYn\nU1vVEEIGqNppRvrbZRteN65yLV5q+tzGDUP/GuUb0BHIwjfJLhZa43XiwKVE6T9g\nYqihIpxDOXcHlVO7ocp+cVqddy1H4V03dw3g7LtuXxFap6TsGPXkt1uMC32s2d9k\n4SCsBYxUuA2HQiHbAHR0+o2ZUKYqRHdNH06zMWzViGF8EW+9dpxX3+xeytk88vrf\nvceNdOBf/GAfQiM36xd1Pd7mMYjTHg3Q6Fb38+CM0l5H+FcuBVu0u3mqq8z07YT6\n/IofxkTfwc4d85kdivvfGyeByh2QXR69iXs/uMrSwQKBgQD/AyHRT6zL3ShxzMAS\nHybqr3JCzTYmWu0LdQWA31+8/Ipg45x5gjUeQiDf9ONQPmkqGyb/pwlotvHyLUVs\nGNVqz5knr5XKPQIX4rzIHNQuxTjCtzTHRZhZlrCW6UfGJkyee9VlVVLcol6ajXyR\nX5JYC/3Spww3sY0X79bjS131bQKBgQDrrEZmERXM7AKSwtpGiNnnZ0gH2BN3uYwj\nIwwdZB90068EBE0J7CRik25kkEJiN7Vjur27MZOLzrX8KnjE+MsqboE0JG1MxrJ/\nJ4vbg4NjafbK2/+QAliJnT9hAfnAyfUvmT2XJUHpH8E8kWWKywuj7Rtq7H0ZPFyh\nKspxfEyrFQKBgQDjl24FGrDDOVwxRGVfRwI6jd7SE8fyL1BD22rP+4u8ZT8y/bDX\nGQhDOw2QE0UUhr7g317M580T8cK5OwIsWXWPYDv2GVT8K7rEio2lo2UTYN0pmsy1\n1D0GJ+DursBp7iCPiUGIsL/FPfxkv0WfkMZRYlJkQMY8pm+gH2OPc+IleQKBgGbz\nYelyaziSnOkpr5qCa9Y3evLaRF7Xsk0jIUaxl0A8vMafblv4SUi6qM3LawRm25lO\nWVWt6Yt4aG1YzFsXaAEINu7lPs38OrtrNiBVig7imkmx4ykwrSaoh6hD6at7Td1W\nLt6ZCvrgwVRJG7eOzW31xTVnS5q7kKdi/v6mUwOlAoGAefZs4nHeXydiJl8YJeSO\nePzHWQzHb0+b8wqmg3BIusH8wa6Q8zSmOUSK6u2pBhhjUJ2JuMqbj50zvmTYAGu7\nNDw3J3HmqqlEn7zrNjNGmmxaI6KLbBfnyH0tz3rH/+QxYtmk14tI/okRxW0pWDJw\ncznJSMyhR7dr9zorOsFtwOg=\n-----END PRIVATE KEY-----\n",
+			"client_email": "dialog-flow-services@agent.iam.gserviceaccount.com"
+		}
+	},
+	"categories": {
+		"DemoCategory": {
+		}
+	},
+	"mockServer": "https://core-mock-dev.intelli-assist.com:2023",
+	"userInfo": {
+    	"email" : "::guest::TOLL_FREE@gmail.com@@Almawiz_Prematix",
+    	"token" : "152854391393249",
+    	"lastVerified" : "2018/06/09 11:31:53",
+    	"corporate" : "Almawiz_Prematix",
+    	"mobileNo" : "9677694682",
+    	"firstName" : "Siva Sankar",
+    	"lastName" : "R",
+    	"gender" : "MALE",
+    	"url" : null,
+    	"isDisabled" : false,
+    	"registrationDate" : "2018/02/13",
+    	"lastActive" : "2018/06/09",
+    	"appVer" : "1.0.27",
+    	"osVer" : "android function () {return i.systemVersion;}",
+    	"currentLoc" : {
+        	"lat" : 12.9715987,
+        	"lng" : 77.5945627
+    	},
+		"preferences" : {
+        	"voice" : true,
+        	"autoSendText" : true,
+        	"vibration" : true,
+        	"theme" : "Mono feminine",
+        	"version" : "1.0.27"
+    	},
+    	"addresses" : [
+        {
+			"type" : "abc",
+			"postal_address" : {
+				"doorNo" : "40/4-5 th Cross Road",
+				"building" : "Raja Ram Mohanroy Extension",
+				"locality" : "Bengaluru",
+				"city" : "Bangalore Urban",
+				"state" : "Karnataka",
+				"country" : "India",
+				"pincode" : "560027"
+			},
+			"google_address" : {
+				"name" : "56/1-2, Gottigere - Kengeri Rd, Golahalli, Anjanapura Twp, Bengaluru, Karnataka 560062, India",
+				"loc" : {
+					"lat" : 14.8601315406218,
+					"lng" : 88.5658460686988
+				}
+			},
+			"isDefault" : true
+        }]
+	}
+}
